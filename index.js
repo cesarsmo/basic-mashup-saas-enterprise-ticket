@@ -11,7 +11,7 @@ let config = {
 	prefix: '/',
 	port: 443,
 	isSecure: true,
-	appId: '999759c8-696c-4009-9546-0e658a9c6fdc',
+	appId: '0ec8b12d-62cb-44f5-b745-51f8a6d53b64',
 	webIntegrationId: 'zQLeIH8-uf87QC9JyLRsdrdZpvhVlkli'
 }
 
